@@ -1,0 +1,1 @@
+Maze traversal assignment that uses adjacency lists to traverse through vertices of a "maze".
